@@ -1,2 +1,3 @@
 # practica 1
- introduccion a Git utilisando HTML y CSS
+ introduccion a Git utilisando HTML y CSS by andy
+ 
